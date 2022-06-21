@@ -30,7 +30,7 @@ As _branches_ estão organizadas de acordo com as semanas e os tópicos de aula.
 
 - __Semana 05:__ Normalmente, um aplicativo real vai precisar mais do salvar dados em memória - ele vai precisar de persistência em banco! É aí que entra o conteúdo dessa aula. Além de mostrar como integrar nossa aplicação com o banco de dados usando Spring Data, vamos apresentar algumas questões arquiteturais importantes quando se trata de aplicações Web.
 
-- __Semana 06:__ xxx.
+- __Semana 06:__  Na nossa primeira aplicação, a interface gráfica e o restante da aplicação estão integrados em um único arquivo de deploy. Isso é útil em várias situações, mas existem casos que você precisa integrar uma aplicação com outra existente. Nesses casos, você precisa de uma API. Nesta aula vamos construir uma nova aplicação que funciona como uma API, recebendo dados usando a arquitetura REST. Para fazer isso, vamos usar uma nova tecnologia do Spring - o Spring WebFlux.
 
 - __Semana 07:__ A maioria das aplicações Web têm algum tipo de segurança. Segurança é um termo amplo que abrange vários aspectos, como conexão segura, cifragem de dados entre outros. Nesta seção, nós vamos focar em dois dos mecanismos mais comuns de segurança: autenticação e autorização. Esse tópico é tão grande que o Spring tem um projeto inteiro só pra cuidar disso: o Spring Security. Essa seção se concentra naquilo que é fundamental para os mecanismos de autenticação e autorização, incluindo a definição de usuários em um banco de dados e suas permissões.
 
