@@ -4,6 +4,6 @@ A penúltima aula aborda três tópicos complementares no contexto do aplicativo
 
 > **Atenção** o navegador do Gitpod não funciona adequadamente para esse projeto. Use seu próprio navegador usando as instruções deixadas na primeira semana de aula.
 
-<a href="https://gitpod.io/#prebuild/https://github.com/gabrielcostasilva/sb-crud-cidades/tree/semana08-30-misc-cookies/" style="padding: 10px;">
+<a href="https://gitpod.io/#prebuild/https://github.com/gabrielcostasilva/esp-java-XXIV/tree/semana08-30-misc-cookies/" style="padding: 10px;">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="150" alt="Push" align="center">
 </a>
