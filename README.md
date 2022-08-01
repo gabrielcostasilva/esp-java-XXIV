@@ -6,6 +6,6 @@ A última aula mostra como usar Single Sign-on (SSO) para autenticar um usuário
 
 > **Atenção** o navegador do Gitpod não funciona adequadamente para esse projeto. Use seu próprio navegador usando as instruções deixadas na primeira semana de aula.
 
-<a href="https://gitpod.io/#prebuild/https://github.com/gabrielcostasilva/sb-crud-cidades/tree/semana09-10-google-authentication/" style="padding: 10px;">
+<a href="https://gitpod.io/#prebuild/https://github.com/gabrielcostasilva/esp-java-XXIV/tree/semana09-10-google-authentication/" style="padding: 10px;">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="150" alt="Push" align="center">
 </a>
